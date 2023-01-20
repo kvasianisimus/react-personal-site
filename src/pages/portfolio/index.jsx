@@ -37,8 +37,8 @@ const projects = [
     about me. In this project i \
     used react for front end and 'Material-UI'`,
     tools: ['javascript', 'react'],
-    live: 'https',
-    source: 'https',
+    live: 'https://bright-kelpie-1cd00a.netlify.app/',
+    source: 'https://github.com/kvasianisimus/react-personal-site.git',
   },
   {
     image: '/images/gymWebsite.png',

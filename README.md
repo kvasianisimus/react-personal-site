@@ -2,14 +2,14 @@
 
 This is my portfolio website using React.
 
-Live Demo [here]().
+Live Demo [here](https://bright-kelpie-1cd00a.netlify.app/).
 
 ## Instructions
 
 First clone this repository.
 
 ```bash
-$ git clone 
+$ git clone https://github.com/kvasianisimus/react-personal-site.git
 ```
 
 Install dependencies. Make sure you already have [`nodejs`](https://nodejs.org/en/) & [`npm`](https://www.npmjs.com/) installed in your system.
