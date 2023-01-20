@@ -37,7 +37,7 @@ const projects = [
     about me. In this project i \
     used react for front end and 'Material-UI'`,
     tools: ['javascript', 'react'],
-    live: 'https://bright-kelpie-1cd00a.netlify.app/',
+    live: 'https://kvasianisimus.netlify.app/',
     source: 'https://github.com/kvasianisimus/react-personal-site.git',
   },
   {
